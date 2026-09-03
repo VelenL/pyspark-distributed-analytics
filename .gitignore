@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/
+data/*.txt
+data/*.csv
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
